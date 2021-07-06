@@ -2,14 +2,12 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+On this blog, may name will not be important...
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+but my hope is that my story will make up for everything...
 
 ### My story
 
