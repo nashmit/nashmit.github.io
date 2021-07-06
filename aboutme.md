@@ -10,5 +10,5 @@ but my hope is that my story will make up for everything...
 
 ### My story
 
-is yet to be written...
+...is yet to be written.
 
