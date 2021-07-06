@@ -15,6 +15,7 @@ author: nash mit
 
 navbar-links:
   About Me: "aboutme"
+  Index: "tags"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
