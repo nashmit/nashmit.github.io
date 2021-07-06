@@ -6,7 +6,6 @@ published: true
 ---
 
 On this blog, may name will not be important...
-
 but my hope is that my story will make up for everything...
 
 ### My story
