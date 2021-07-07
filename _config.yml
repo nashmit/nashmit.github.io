@@ -14,9 +14,9 @@ author: Horea-Alexandru Caramizaru
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me:
-    - Lite version: "aboutme"
-    - CV : "CV"
+  About Me: "aboutme"
+#    - Lite version: "aboutme"
+#    - CV : "CV"
   Blog Index: "tags"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
