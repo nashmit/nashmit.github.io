@@ -15,7 +15,8 @@ author: Horea-Alexandru Caramizaru
 
 navbar-links:
   About Me: "aboutme"
-  "Blog Index": "tags"
+  Blog Index: "tags"
+  CV : "CV"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
