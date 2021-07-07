@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Isaac Newtons's CV
+layout: page
+title: Caramizaru's CV
 ---
 # Horea-Alexandru Caramizaru
 Researacher, Heidelberg Germany
