@@ -6,7 +6,7 @@ subtitle: The first one I feel comfortable sharing...
 thumbnail-img: /assets/img/watercolor-drawing.jpg
 <!--- cover-img: /assets/img/watercolor-drawing.jpg --->
 <!--- share-img: /assets/img/path.jpg --->
-tags: [personal]
+tags: [personal, painting]
 published: true
 ---
 
