@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Alex's personal web page.
+title: Alex's blog
 
 # Your name to show in the footer
-author: nash mit
+author: Horea-Alexandru Caramizaru
 
 # --- List of links in the navigation bar --- #
 
@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "horea.caramizaru@cti.pub.ro"
 #  facebook: https://www.facebook.com/caramizaru.horeaalexandru/
   github: nashmit
 #  twitter: _
