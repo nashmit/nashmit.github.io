@@ -10,4 +10,4 @@ tags: [personal]
 published: true
 ---
 
-![Tux, the Linux mascot](/assets/img/watercolor-drawing.jpg)
+![Painting](/assets/img/watercolor-drawing.jpg)
