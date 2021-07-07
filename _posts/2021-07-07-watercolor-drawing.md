@@ -10,6 +10,5 @@ tags: [personal, painting]
 published: true
 ---
 
-![Painting](/assets/img/watercolor-drawing.jpg) ![Painting](/assets/img/watercolor-drawing.jpg)
-![Painting](/assets/img/watercolor-drawing.jpg) ![Painting](/assets/img/watercolor-drawing.jpg)
+![Painting](/assets/img/watercolor-drawing.jpg)
 
