@@ -1,3 +1,8 @@
+<script src="//yihui.org/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 ---
 layout: post
 title: Building an argument...
@@ -12,11 +17,13 @@ published: true
 
 ![Painting](/assets/img/EKF1.png)
 
-<div class="math">
-\begin{equation}
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}  
-\end{equation}
-</div>
+Hi `$z = x + y$`.
+
+`$$a^2 + b^2 = c^2$$`
+
+`$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$`
 
 Dear X,
 
