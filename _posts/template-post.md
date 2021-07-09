@@ -9,3 +9,5 @@ cover-img: /assets/img/image-grass.jpeg
 tags: [personal]
 published: false
 ---
+
+![Painting](/assets/img/watercolor-drawing.jpg)
