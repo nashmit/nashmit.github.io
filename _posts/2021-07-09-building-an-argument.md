@@ -1,8 +1,3 @@
-<script src="//yihui.org/js/math-code.js"></script>
-<!-- Just one possible MathJax CDN below. You may use others. -->
-<script async
-  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 ---
 layout: post
 title: Building an argument...
@@ -14,6 +9,12 @@ thumbnail-img: /assets/img/EKF1.png
 tags: [personal]
 published: true
 ---
+
+<script src="//yihui.org/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 ![Painting](/assets/img/EKF1.png)
 
