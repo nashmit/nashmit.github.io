@@ -4,7 +4,7 @@ title: Building an argument...
 subtitle: 
 <!--- cover-img: /assets/img/path.jpg --->
 <!--- thumbnail-img: /assets/img/avatar-icon.jpg --->
-<!--- cover-img: /assets/img/image-grass.jpeg --->
+cover-img: /assets/img/EKF1.png
 <!--- share-img: /assets/img/path.jpg --->
 tags: [personal]
 published: true
