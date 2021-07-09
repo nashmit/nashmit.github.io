@@ -2,6 +2,7 @@
 layout: post
 title: Building an argument...
 subtitle: Dear X,
+Thank you very much for sending me the feedback!
 <!--- cover-img: /assets/img/path.jpg --->
 thumbnail-img: /assets/img/EKF1.png
 <!--- cover-img: /assets/img/EKF1.png --->
