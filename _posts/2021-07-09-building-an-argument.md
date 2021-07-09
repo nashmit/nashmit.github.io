@@ -3,7 +3,7 @@ layout: post
 title: Building an argument...
 subtitle: 
 <!--- cover-img: /assets/img/path.jpg --->
- thumbnail-img: /assets/img/EKF1.png
+thumbnail-img: /assets/img/EKF1.png
 <!--- cover-img: /assets/img/EKF1.png --->
 <!--- share-img: /assets/img/path.jpg --->
 tags: [personal]
