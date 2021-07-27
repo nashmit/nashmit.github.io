@@ -15,7 +15,7 @@ published: true
 
 ### Problem definition:
 
-For a sequance of *N* elements one can build **at most** *NrX* sequences of lenght *1*, *NrY* sequances of lenght *2* and *NrZ* sequances of lenght *3* that nust not overlap.
+For a sequance of *N* elements one can build **at most** *NrX* sequences of lenght *1*, *NrY* sequances of lenght *2* and *NrZ* sequances of lenght *3* that must not overlap.
 
 ### Requirements:
 
