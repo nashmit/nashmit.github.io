@@ -39,4 +39,4 @@ with:
 * *NrY=2*
 * *NrZ=0*
 
-The maximum sum = 8
+The maximum sum = 8 where we have one sequance of lenght 2:=[ 2, 3] and one sequance of lenght 1:= [3]
