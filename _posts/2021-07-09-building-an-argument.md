@@ -26,6 +26,7 @@ As I was not sure whether you were the one who has evaluate my project, the last
 
 **Summary:**
 <mark>Marked text</mark>
+<span style="background-color: #FFFF00">Marked text</span>
 
 The evaluation structure doesn&#39;t take care of the project particularities by considering missing elements that are not relevant for my project ( e.g. quantitative analysis ) as a minus and at the same time given little importance to parts of the project that represents the backbone of my work ( e.g. 2 layer architecture ). At the same time, an important part of the project is misinterpreted and by doing so, is not considered by the reviewer in the grading process ( e.g. the EKF modeling process ).
 
