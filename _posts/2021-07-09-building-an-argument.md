@@ -25,7 +25,7 @@ After multiple careful readings I concluded that most of the appreciations are w
 As I was not sure whether you were the one who has evaluate my project, the last email can easily be interpreted as a general statement w.r.t. evaluation and given the fact that the evaluation pdf is not signed and some statements do not correspond to what I know from you, I thought it was safe to believe that a 3rd person has evaluated my work. As a consequence, the response is addressed to the 3rd person. If this is not true, please accept my apologies.
 
 **Summary:**
-Take me to [pookie](#pookie)
+[link text](#abcd)
 
 The evaluation structure doesn&#39;t take care of the project particularities by considering missing elements that are not relevant for my project ( e.g. quantitative analysis ) as a minus and at the same time given little importance to parts of the project that represents the backbone of my work ( e.g. 2 layer architecture ). At the same time, an important part of the project is misinterpreted and by doing so, is not considered by the reviewer in the grading process ( e.g. the EKF modeling process ).
 
