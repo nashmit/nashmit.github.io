@@ -4,7 +4,7 @@ layout: post
 subtitle: Dynamic programming
 <!--- cover-img: /assets/img/path.jpg --->
 <!--- thumbnail-img: /assets/img/avatar-icon.jpg --->
-cover-img: /assets/img/image-grass.jpeg
+cover-img: /assets/img/DP.png
 <!--- share-img: /assets/img/path.jpg --->
 tags: [computer science, algorithms, dynamic programming]
 published: true
