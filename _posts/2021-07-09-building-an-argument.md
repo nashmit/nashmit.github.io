@@ -20,12 +20,11 @@ Thank you very much for sending me the feedback!
 
 I&#39;ve been waiting for it impatiently for all this time but it worth it given the surprising level of completeness and attention to details, my reviewer has put into. I can&#39;t say that I had any of my past work, as a student, on this level under the spot! Thank you! 
 
-After multiple careful readings I concluded that most of the appreciations are well connected into the reality of my work. Nevertheless, I also spot multiple conclusions to which I disagree. Since this evaluation follows the structure of a paper review, I would try to respond accordingly given that I believe that it&#39;s in my interest to clarify them as they had quite some impact with respect to my final grade.<a name="abcd"></a>
+After multiple careful readings I concluded that most of the appreciations are well connected into the reality of my work. Nevertheless, I also spot multiple conclusions to which I disagree. Since this evaluation follows the structure of a paper review, I would try to respond accordingly given that I believe that it&#39;s in my interest to clarify them as they had quite some impact with respect to my final grade.
 
 As I was not sure whether you were the one who has evaluate my project, the last email can easily be interpreted as a general statement w.r.t. evaluation and given the fact that the evaluation pdf is not signed and some statements do not correspond to what I know from you, I thought it was safe to believe that a 3rd person has evaluated my work. As a consequence, the response is addressed to the 3rd person. If this is not true, please accept my apologies.
 
 **Summary:**
-[link text](#abcd)
 
 The evaluation structure doesn&#39;t take care of the project particularities by considering missing elements that are not relevant for my project ( e.g. quantitative analysis ) as a minus and at the same time given little importance to parts of the project that represents the backbone of my work ( e.g. 2 layer architecture ). At the same time, an important part of the project is misinterpreted and by doing so, is not considered by the reviewer in the grading process ( e.g. the EKF modeling process ).
 
