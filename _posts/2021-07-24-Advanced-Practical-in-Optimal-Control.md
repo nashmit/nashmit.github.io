@@ -11,7 +11,7 @@ tags: [Applied math, Nonlinear optimization, Optimal control, CasADi]
 published: true
 ---
 
-The main scope of this practical is to expose the interfaces of
+The main scope of this project is to expose the interfaces of
 **IDAS/CVODES** integrators from the **SUNDIALS suite**
 into **Matlab**. To this end, the implementation
 provides the means to define a **dynamical system**, to compute
