@@ -13,7 +13,7 @@ published: true
 
 The main scope of this practical is to expose the interfaces of
 **IDAS/CVODES** integrators from the **SUNDIALS suite**
-@hindmarsh2005sundials into **Matlab**. To this end, the implementation
+into **Matlab**. To this end, the implementation
 provides the means to define a **dynamical system**, to compute
 **forward integration** as well as **first and second order
 sensitivity** in a **parallelized** way. All of these are done by
