@@ -33,7 +33,7 @@ $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$  --->
 
 ### Problem definition:
 
-For a sequance of *`N`* elements, one can build **at most** *`NrX`* sequences of lenght *`1`*, *`NrY`* sequances of lenght *`2`* and *`NrZ`* sequances of lenght *`3`* that must not overlap.
+For a sequance of *`N`* elements, one can build **at most** *`NrX`* subsequences of lenght *`1`*, *`NrY`* subsequences of lenght *`2`* and *`NrZ`* subsequences of lenght *`3`* that *`must not`* overlap.
 
 ### Requirements:
 
