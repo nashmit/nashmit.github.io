@@ -33,11 +33,11 @@ $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$  --->
 
 ### Problem definition:
 
-For a sequance of *`N`* elements, one can build **at most** *`NrX`* subsequences of lenght *`1`*, *`NrY`* subsequences of lenght *`2`* and *`NrZ`* subsequences of lenght *`3`* that *`must not`* overlap.
+For a sequence of *`N`* elements, one can build **at most** *`NrX`* subsequences of length *`1`*, *`NrY`* subsequences of length *`2`* and *`NrZ`* subsequences of length *`3`* that *`must not`* overlap.
 
 ### Requirements:
 
-Find the maximum sum of subsequances with the property abovementioned.
+Find the maximum sum of subsequences with the property above mentioned.
 
 ### Limits:
 
@@ -59,7 +59,7 @@ with:
 * *`NrY`=`2`*
 * *`NrZ`=`0`*
 
-The maximum `Sum = 8` where we have one sequance of lenght `2 := [ 2, 3 ]` and one sequance of lenght `1 := [ 3 ]`
+The maximum `Sum = 8` where we have one subsequences of length `2 := [ 2, 3 ]` and one subsequences of lenght `1 := [ 3 ]`
 
 #### Example 2:
 
