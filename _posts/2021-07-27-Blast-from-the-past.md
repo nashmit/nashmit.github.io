@@ -11,6 +11,7 @@ tags: [computer science, algorithms, dynamic programming]
 published: true
 ---
 
+
 <!--- ![Painting](/assets/img/watercolor-drawing.jpg) --->
 
 <!--- ! inline: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
@@ -22,7 +23,7 @@ $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$  --->
 
 ### Problem definition:
 
-For a sequance of *N* elements one can build **at most** *NrX* sequences of lenght *1*, *NrY* sequances of lenght *2* and *NrZ* sequances of lenght *3* that must not overlap.
+For a sequance of *`N`* elements, one can build **at most** *`NrX`* sequences of lenght *`1`*, *`NrY`* sequances of lenght *`2`* and *`NrZ`* sequances of lenght *`3`* that must not overlap.
 
 ### Requirements:
 
@@ -37,7 +38,7 @@ Find the maximum sum of subsequances with the property abovementioned.
 
 ### Example:
 
-Given: [ 2, 3, -1, 3 ]
+Given: { 2, 3, -1, 3 }
 
 with:
 
@@ -47,3 +48,4 @@ with:
 * *NrZ=0*
 
 The maximum sum = 8 where we have one sequance of lenght 2:=[ 2, 3] and one sequance of lenght 1:= [3]
+
