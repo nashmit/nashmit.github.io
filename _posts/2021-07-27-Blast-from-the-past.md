@@ -77,12 +77,12 @@ The maximum `Sum = 8` where we have one subsequences of length `2 := [ 2, 3 ]` a
 `Todo: Add explination...`
 
 ```
-sol[n][NrX][NrY][NrZ] = 
+sol[N][NrX][NrY][NrZ] = 
 	max(
-	sol[n-i][NrX][NrY][NrZ],
-	sol[n-i][NrX-1][NrY][NrZ] + value[n],
-	Sol[n-i][NrX][NrY-1][NrZ] + value[n] + value[n-1],
-	Sol[n-1][NrX][NrY][NrZ-1] + value[n] + value[n-1] + value[n-2] )
+	sol[N-i][NrX][NrY][NrZ],
+	sol[N-i][NrX-1][NrY][NrZ] + value[N],
+	Sol[N-i][NrX][NrY-1][NrZ] + value[N] + value[N-1],
+	Sol[N-1][NrX][NrY][NrZ-1] + value[N] + value[N-1] + value[N-2] )
 	
 sol_final = -1;
 
@@ -90,7 +90,7 @@ sol_final = -1;
 for(int i = 0 ; i <= NrX ; i++)
 	for( int j = 0 ; j<= NrY; j++)
 		for( int k = 0; k <= NrZ; k++)
-		sol_final = max ( sol_final , sol[n][i][j][k] );
+		sol_final = max ( sol_final , sol[N][i][j][k] );
 ```
 
 
