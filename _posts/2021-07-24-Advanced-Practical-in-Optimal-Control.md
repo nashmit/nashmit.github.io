@@ -7,7 +7,7 @@ thumbnail-img: https://github.com/nashmit/SUNDIALS2Matlab/blob/2041e3c5f4a29a4d9
 <!--- cover-img: /assets/img/DP.png --->
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
-tags: [computer science, algorithms, dynamic programming]
+tags: [Applied math, Nonlinear optimization, Optimal control, CasADi]
 published: true
 ---
 
