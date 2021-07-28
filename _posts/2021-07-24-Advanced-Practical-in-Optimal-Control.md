@@ -1,5 +1,5 @@
 ---
-<!---  layout: post  --->
+layout: base
 title: Optimal Control
 subtitle: Technical Report
 <!--- cover-img: /assets/img/path.jpg --->
