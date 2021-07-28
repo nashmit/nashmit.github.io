@@ -3,7 +3,7 @@ layout: post
 title: Optimal Control
 subtitle: Technical Report
 <!--- cover-img: /assets/img/path.jpg --->
-thumbnail-img: /assets/img/MLI-CasADi.png
+thumbnail-img: /assets/img/multipleShooting.png
 <!--- cover-img: /assets/img/DP.png --->
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
@@ -31,4 +31,4 @@ Alongside this report, a complete implementation can be found here:
 forward integration, sensitivity, parallelization, code generation,
 CasADi, symbolical framework.**
 
-![Multiple Shooting](/assets/img/multipleShooting.png "Multiple Shooting")
+![Multiple Shooting](/assets/img/MLI-CasADi.png "MLI on top of CasADi")
