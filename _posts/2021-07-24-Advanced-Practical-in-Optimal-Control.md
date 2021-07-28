@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: blog
 title: Optimal Control
 subtitle: Technical Report
 <!--- cover-img: /assets/img/path.jpg --->
