@@ -15,6 +15,7 @@ author: Horea-Alexandru Caramizaru
 
 navbar-links:
   About Me: "aboutme"
+  LaTex : "LaTeX Test"
 #    - Lite version: "aboutme"
 #    - CV : "CV"
   Blog Index: "tags"
