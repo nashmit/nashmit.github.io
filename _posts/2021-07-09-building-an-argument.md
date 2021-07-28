@@ -18,7 +18,7 @@ Dear X,
 
 Thank you very much for sending me the feedback!
 
-I&#39;ve been waiting for it impatiently for all this time but it worth it given the surprising level of completeness and attention to details, my reviewer has put into. I can&#39;t say that I had any of my past work, as a student, on this level under the spot! Thank you! 
+I&#39;ve been waiting for it impatiently for all this time but it worth it given the surprising level of completeness and attention to details, my reviewer has put into. I can&#39;t say that I had any of my past work, as a student, on this level under the spot! Thank you! :)
 
 After multiple careful readings I concluded that most of the appreciations are well connected into the reality of my work. Nevertheless, I also spot multiple conclusions to which I disagree. Since this evaluation follows the structure of a paper review, I would try to respond accordingly given that I believe that it&#39;s in my interest to clarify them as they had quite some impact with respect to my final grade.
 
