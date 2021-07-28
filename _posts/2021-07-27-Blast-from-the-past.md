@@ -10,6 +10,8 @@ katex: True
 tags: [computer science, algorithms, dynamic programming]
 published: true
 ---
+
+
 # Table of Contents
 1. [Problem](#problem)
     1. [Problem definition](#problem-definition)
@@ -39,10 +41,10 @@ Find the maximum sum of subsequances with the property abovementioned.
 
 ### Limits:
 
-* *N<=100*
-* *NrX<=50*
-* *NrY<=50*
-* *NrZ<=50*
+* *`N`<=`100`*
+* *`NrX`<=`50`*
+* *`NrY`<=`50`*
+* *`NrZ`<=`50`*
 
 ### Examples:
 
@@ -52,10 +54,10 @@ Given: { 2, 3, -1, 3 }
 
 with:
 
-* *`N`=4*
-* *`NrX`=1*
-* *`NrY`=2*
-* *`NrZ`=0*
+* *`N`=`4`*
+* *`NrX`=`1`*
+* *`NrY`=`2`*
+* *`NrZ`=`0`*
 
 The maximum `Sum = 8` where we have one sequance of lenght `2 := [ 2, 3 ]` and one sequance of lenght `1 := [ 3 ]`
 
@@ -63,5 +65,3 @@ The maximum `Sum = 8` where we have one sequance of lenght `2 := [ 2, 3 ]` and o
 
 
 ## Solution:
-
-
