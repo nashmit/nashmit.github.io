@@ -12,9 +12,11 @@ published: true
 ---
 
 
-The book Dynamic Programming by Richard Bellman is an important, pioneering work in which a group of problems is collected together at the end of some chapters under the heading "Exercises and Research Problems," with extremely trivial questions appearing in the midst of deep, unsolved problems. It is rumored that someone once asked Dr. Bellman how to tell the exercises apart from the research problems, and he replied: "If you can solve it, it is an exercise; otherwise it's a research problem." — Donald Knuth
+`The book Dynamic Programming by Richard Bellman is an important, pioneering work in which a group of problems is collected together at the end of some chapters under the heading "Exercises and Research Problems," with extremely trivial questions appearing in the midst of deep, unsolved problems. It is rumored that someone once asked Dr. Bellman how to tell the exercises apart from the research problems, and he replied: "If you can solve it, it is an exercise; otherwise it's a research problem." — Donald Knuth`
 
 That being said, let's dive into the next `exercise`:)
+
+
 
 # Table of Contents
 1. [Problem](#problem)
@@ -90,4 +92,6 @@ for(int i = 0 ; i <= NrX ; i++)
 		for( int k = 0; k <= NrZ; k++)
 		sol_final = max ( sol_final , sol[n][i][j][k] );
 ```
+
+
 
