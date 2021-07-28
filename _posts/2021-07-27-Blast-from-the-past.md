@@ -10,7 +10,6 @@ katex: True
 tags: [computer science, algorithms, dynamic programming]
 published: true
 ---
-
 # Table of Contents
 1. [Problem](#problem)
     1. [Problem definition](#problem-definition)
@@ -53,15 +52,16 @@ Given: { 2, 3, -1, 3 }
 
 with:
 
-* *N=4*
-* *NrX=1*
-* *NrY=2*
-* *NrZ=0*
+* *`N`=4*
+* *`NrX`=1*
+* *`NrY`=2*
+* *`NrZ`=0*
 
-The maximum sum = 8 where we have one sequance of lenght 2:=[ 2, 3] and one sequance of lenght 1:= [3]
+The maximum `Sum = 8` where we have one sequance of lenght `2 := [ 2, 3 ]` and one sequance of lenght `1 := [ 3 ]`
 
 #### Example 2:
 
 
 ## Solution:
+
 
