@@ -15,8 +15,8 @@ published: true
 1. [Problem](#problem)
     1. [Problem definition](#problem-definition)
     2. [Requirements](#requirements)
-    3. [Limits](#Limits)
-    4. [Example](#Example)
+    3. [Limits](#limits)
+    4. [Examples](#examples)
 2. [Solution](#solution)
 
 
@@ -45,7 +45,9 @@ Find the maximum sum of subsequances with the property abovementioned.
 * *NrY<=50*
 * *NrZ<=50*
 
-### Example:
+### Examples:
+
+#### Example 1:
 
 Given: { 2, 3, -1, 3 }
 
@@ -58,5 +60,8 @@ with:
 
 The maximum sum = 8 where we have one sequance of lenght 2:=[ 2, 3] and one sequance of lenght 1:= [3]
 
+#### Example 2:
+
 
 ## Solution:
+
