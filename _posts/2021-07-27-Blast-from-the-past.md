@@ -59,7 +59,7 @@ with:
 * *`NrY`=`2`*
 * *`NrZ`=`0`*
 
-The maximum `Sum = 8` where we have one subsequences of length `2 := [ 2, 3 ]` and one subsequences of lenght `1 := [ 3 ]`
+The maximum `Sum = 8` where we have one subsequence of length `2 := [ 2, 3 ]` and one subsequence of lenght `1 := [ 3 ]`
 
 #### Example 2:
 
