@@ -3,7 +3,7 @@ layout: post
 title: Optimal Control
 subtitle: Technical Report
 <!--- cover-img: /assets/img/path.jpg --->
-thumbnail-img: /assets/img/PD-small2.png
+thumbnail-img: https://github.com/nashmit/SUNDIALS2Matlab/blob/2041e3c5f4a29a4d9314390e6183f4d4b77f061c/report/images/multipleShooting.png
 <!--- cover-img: /assets/img/DP.png --->
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
