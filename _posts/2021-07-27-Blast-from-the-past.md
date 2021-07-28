@@ -82,7 +82,7 @@ sol[n][NrX][NrY][NrZ] =
 	sol[n-i][NrX][NrY][NrZ],
 	sol[n-i][NrX-1][NrY][NrZ] + value[n],
 	Sol[n-i][NrX][NrY-1][NrZ] + value[n] + value[n-1],
-	Sol[n-1][NrX[NrY][NrZ-1] + value[n] + value[n-1] + value[n-2] )
+	Sol[n-1][NrX][NrY][NrZ-1] + value[n] + value[n-1] + value[n-2] )
 	
 sol_final = -1;
 
