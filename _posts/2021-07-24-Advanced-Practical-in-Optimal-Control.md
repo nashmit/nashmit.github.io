@@ -2,7 +2,7 @@
 layout: post
 title: Optimal Control
 subtitle: Technical Report
-cover-img: /assets/img/multipleShooting.png
+share-img: /assets/img/multipleShooting.png
 <!--- cover-img: /assets/img/path.jpg --->
 <!--- thumbnail-img: /assets/img/multipleShooting.png --->
 <!--- cover-img: /assets/img/DP.png --->
