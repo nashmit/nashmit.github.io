@@ -5,8 +5,7 @@ subtitle: With or without me...
 published: true
 ---
 
-On this blog, my name will not be important...
-but my hope is that my story will make up for it...
+... the sum total of my experiences. :) 
 
 ### My story
 
