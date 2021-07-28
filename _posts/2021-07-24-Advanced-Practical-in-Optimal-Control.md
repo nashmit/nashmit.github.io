@@ -2,9 +2,8 @@
 layout: post
 title: Optimal Control
 subtitle: Technical Report
-share-img: /assets/img/multipleShooting.png
 <!--- cover-img: /assets/img/path.jpg --->
-<!--- thumbnail-img: /assets/img/multipleShooting.png --->
+thumbnail-img: /assets/img/multipleShooting.png
 <!--- cover-img: /assets/img/DP.png --->
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
@@ -31,3 +30,5 @@ Alongside this report, a complete implementation can be found here:
 ***Index Terms:*** **IDAS, CVODES, SUNDIALS suite, dynamical system,
 forward integration, sensitivity, parallelization, code generation,
 CasADi, symbolical framework.**
+
+[Painting](/assets/img/multipleShooting.png)
