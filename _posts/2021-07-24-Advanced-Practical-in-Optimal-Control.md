@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advanced Practical in Optimal Control
+title: Optimal Control
 subtitle: Technical Report
 <!--- cover-img: /assets/img/path.jpg --->
 thumbnail-img: /assets/img/PD-small2.png
@@ -22,6 +22,7 @@ sensitivity** in a **parallelized** way. All of these are done by
 **dynamical system** on top of **CasADi**, which closely resembles a
 **symbolical framework** without having the corresponding disadvantages.
 
+The **pdf** version of this report can be found here: [Report](https://github.com/nashmit/SUNDIALS2Matlab/blob/master/report/report.pdf)
 Alongside this report, a complete implementation can be found here:
 [SUNDIALS2Matlab](https://github.com/nashmit/SUNDIALS2Matlab).\
 \
