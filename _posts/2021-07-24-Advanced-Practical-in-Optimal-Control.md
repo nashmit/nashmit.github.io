@@ -31,4 +31,4 @@ Alongside this report, a complete implementation can be found here:
 forward integration, sensitivity, parallelization, code generation,
 CasADi, symbolical framework.**
 
-[Multiple Shooting](/assets/img/multipleShooting.png)
+![Multiple Shooting](/assets/img/multipleShooting.png "Multiple Shooting")
