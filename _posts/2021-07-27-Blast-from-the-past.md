@@ -6,11 +6,17 @@ subtitle: Dynamic programming
 thumbnail-img: /assets/img/PD-small2.png
 <!--- cover-img: /assets/img/DP.png --->
 <!--- share-img: /assets/img/path.jpg --->
+katex: True
 tags: [computer science, algorithms, dynamic programming]
 published: true
 ---
 
 <!--- ![Painting](/assets/img/watercolor-drawing.jpg) --->
+
+inline: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
+display mode (centered):
+
+$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 
 
 ### Problem definition:
