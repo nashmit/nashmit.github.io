@@ -59,9 +59,30 @@ with:
 * *`NrY`=`2`*
 * *`NrZ`=`0`*
 
-The maximum `Sum = 8` where we have one subsequence of length `2 := [ 2, 3 ]` and one subsequence of lenght `1 := [ 3 ]`
+The maximum `Sum = 8` where we have one subsequences of length `2 := [ 2, 3 ]` and one subsequences of lenght `1 := [ 3 ]`
 
 #### Example 2:
 
 
 ## Solution:
+
+### Pseudocode:
+
+`Todo: Add explination...`
+
+```
+sol[n][NrX][NrY][NrZ] = 
+	max(
+	sol[n-i][NrX][NrY][NrZ],
+	sol[n-i][NrX-1][NrY][NrZ] + value[n],
+	Sol[n-i][NrX][NrY-1][NrZ] + value[n] + value[n-1],
+	Sol[n-1][NrX[NrY][NrZ-1] + value[n] + value[n-1] + value[n-2] )
+	
+sol_final = -1;
+
+20*20*20
+for(int i = 0 ; i <= NrX ; i++)
+	for( int j = 0 ; j<= NrY; j++)
+		for( int k = 0; k <= NrZ; k++)
+		sol_final = max ( sol_final , sol[n][i][j][k] );
+```
