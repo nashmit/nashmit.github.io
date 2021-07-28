@@ -11,6 +11,14 @@ tags: [computer science, algorithms, dynamic programming]
 published: true
 ---
 
+# Table of Contents
+1. [Problem](#problem)
+    1. [Problem definition](#problem-definition)
+    2. [Requirements](#requirements)
+    3. [Limits](#Limits)
+    4. [Example](#Example)
+2. [Solution](#solution)
+
 
 <!--- ![Painting](/assets/img/watercolor-drawing.jpg) --->
 
@@ -20,6 +28,7 @@ display mode (centered):
 
 $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$  --->
 
+## Problem:
 
 ### Problem definition:
 
@@ -49,3 +58,5 @@ with:
 
 The maximum sum = 8 where we have one sequance of lenght 2:=[ 2, 3] and one sequance of lenght 1:= [3]
 
+
+## Solution:
