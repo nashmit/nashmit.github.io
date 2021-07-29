@@ -1,15 +1,15 @@
 ---
 layout: post
-<!--- title: "It's never about the grade..." --->
+<!---  title: Farewell... --->
 subtitle: bla
 <!--- cover-img: /assets/img/path.jpg --->
-<!--- thumbnail-img: /assets/img/PD-small2.png --->
+thumbnail-img: /assets/img/PD-small2.png
 <!--- cover-img: /assets/img/DP.png --->
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
-tags: [personal]
+tags: [computer science, algorithms, dynamic programming]
 full-width: true
-published: true
+published: false
 hidden: true
 ---
 
