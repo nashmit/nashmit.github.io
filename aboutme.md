@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: With or without me...
+full-width: true
 published: true
 ---
 
