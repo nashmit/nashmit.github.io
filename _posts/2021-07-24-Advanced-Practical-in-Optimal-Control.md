@@ -8,6 +8,7 @@ thumbnail-img: /assets/img/multipleShooting.png
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
 tags: [Applied math, Nonlinear optimization, Optimal control, CasADi]
+full-width: true
 published: true
 ---
 
