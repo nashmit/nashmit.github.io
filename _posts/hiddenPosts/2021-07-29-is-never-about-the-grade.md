@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/PD-small2.png
 <!--- cover-img: /assets/img/DP.png --->
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
-tags: [computer science, algorithms, dynamic programming]
+tags: [personal]
 full-width: true
 published: true
 hidden: true
