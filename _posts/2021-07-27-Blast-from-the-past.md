@@ -10,20 +10,7 @@ katex: True
 tags: [computer science, algorithms, dynamic programming]
 full-width: true
 published: true
----
-layout: post
-<!---  title: Farewell... --->
-subtitle: Dynamic programming
-<!--- cover-img: /assets/img/path.jpg --->
-thumbnail-img: /assets/img/PD-small2.png
-<!--- cover-img: /assets/img/DP.png --->
-<!--- share-img: /assets/img/path.jpg --->
-katex: True
-tags: [computer science, algorithms, dynamic programming]
-full-width: true
-published: true
 hidden: true
----
 ---
 
 
