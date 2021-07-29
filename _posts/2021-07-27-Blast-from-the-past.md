@@ -8,6 +8,7 @@ thumbnail-img: /assets/img/PD-small2.png
 <!--- share-img: /assets/img/path.jpg --->
 katex: True
 tags: [computer science, algorithms, dynamic programming]
+full-width: true
 published: true
 ---
 
