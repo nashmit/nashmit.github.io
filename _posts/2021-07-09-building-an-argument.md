@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/EKF1.png
 <!--- cover-img: /assets/img/EKF1.png --->
 <!--- share-img: /assets/img/path.jpg --->
 tags: [personal]
+full-width: true
 published: true
 ---
 
