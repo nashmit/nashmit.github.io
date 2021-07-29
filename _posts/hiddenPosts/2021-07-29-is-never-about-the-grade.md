@@ -1,7 +1,7 @@
 ---
 layout: post
 <!---  title: Farewell... --->
-subtitle: bla
+<!--- subtitle: bla --->
 <!--- cover-img: /assets/img/path.jpg --->
 thumbnail-img: /assets/img/PD-small2.png
 <!--- cover-img: /assets/img/DP.png --->
