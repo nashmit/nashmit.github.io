@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "It's never about the grade..."
-subtitle: bla 
+<!--- title: "It's never about the grade..." --->
+<!--- subtitle: bla --->
 <!--- cover-img: /assets/img/path.jpg --->
 <!--- thumbnail-img: /assets/img/PD-small2.png --->
 <!--- cover-img: /assets/img/DP.png --->
@@ -9,7 +9,7 @@ subtitle: bla
 katex: True
 tags: [personal]
 full-width: true
-published: false
+published: true
 hidden: true
 ---
 
