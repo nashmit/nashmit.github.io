@@ -11,6 +11,20 @@ tags: [computer science, algorithms, dynamic programming]
 full-width: true
 published: true
 ---
+layout: post
+<!---  title: Farewell... --->
+subtitle: Dynamic programming
+<!--- cover-img: /assets/img/path.jpg --->
+thumbnail-img: /assets/img/PD-small2.png
+<!--- cover-img: /assets/img/DP.png --->
+<!--- share-img: /assets/img/path.jpg --->
+katex: True
+tags: [computer science, algorithms, dynamic programming]
+full-width: true
+published: true
+hidden: true
+---
+---
 
 
 The book **Dynamic Programming** by *Richard Bellman* is an important, pioneering work in which a group of problems is collected together at the end of some chapters under the heading "Exercises and Research Problems," with extremely trivial questions appearing in the midst of deep, unsolved problems. It is rumored that someone once asked Dr. Bellman how to tell the exercises apart from the research problems, and he replied: `"If you can solve it, it is an exercise; otherwise it's a research problem."` — *Donald Knuth*
